@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxTreeView - How to manage the visibility of check boxes via the AllowCheck property
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2500/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how you can use the ASPxTreeView's AllowCheckNodes and TreeViewNode's AllowCheck properties to manage the visibility of check boxes.</p><p><strong>See also:</strong><strong><br />
